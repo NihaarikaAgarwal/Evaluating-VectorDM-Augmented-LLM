@@ -1,0 +1,4 @@
+Robot position: (3, 0)
+Goal position: (0, 3)
+Obstacle positions:
+(3, 1)
